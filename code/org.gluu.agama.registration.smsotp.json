@@ -111,7 +111,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		},
 		{
 			"data": {
@@ -434,7 +434,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "A new OTP code has been send to you on your mobile phone.",
+							"assignmentExpression": "\"A new OTP code has been send to you on your mobile phone.\"",
 							"assignedVariableName": "otpUiFeedback.infoMessage"
 						}
 					]
@@ -456,7 +456,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -498,7 +499,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "Error occurs while sending new code to you. Please contact site administrator.",
+							"assignmentExpression": "\"Error occurs while sending new code to you. Please contact site administrator.\"",
 							"assignedVariableName": "otpUiFeedback.infoMessage"
 						}
 					]
@@ -520,7 +521,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -662,7 +664,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "The provided code is not valid.",
+							"assignmentExpression": "\"The provided code is not valid.\"",
 							"assignedVariableName": "otpUiFeedback.errorMessage"
 						}
 					]
@@ -678,13 +680,15 @@
 			"type": "assignmentNode",
 			"id": "assignmentNode-cfd384df-127d-4f17-9398-c2d2a25b6056",
 			"position": {
-				"x": 2800,
-				"y": 700
+				"x": 2827.86374795254,
+				"y": 880.4509391212141
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -1119,8 +1123,8 @@
 		}
 	],
 	"viewport": {
-		"x": 0,
-		"y": 0,
-		"zoom": 1
+		"x": -1296.623038923722,
+		"y": -154.06844449546327,
+		"zoom": 0.7536674547791902
 	}
 }
