@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-f77cce32-8609-4a7c-ac5a-138aa2384092",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-f77cce32-8609-4a7c-ac5a-138aa2384092",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "org.gluu.agama.registration.smsMobileRegister",
+          "displayName": "org.gluu.agama.registration.smsMobileRegister",
+          "creationDate": "17/07/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
