@@ -498,7 +498,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "Error occurs while sending new code to you. Please contact site administrator.",
+							"assignmentExpression": "\"Error occurs while sending new code to you. Please contact site administrator.\"",
 							"assignedVariableName": "otpUiFeedback.infoMessage"
 						}
 					]
@@ -520,7 +520,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -678,14 +679,15 @@
 			"type": "assignmentNode",
 			"id": "assignmentNode-cfd384df-127d-4f17-9398-c2d2a25b6056",
 			"position": {
-				"x": 2800,
-				"y": 700
+				"x": 2830.517438233735,
+				"y": 913.6220676361431
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
