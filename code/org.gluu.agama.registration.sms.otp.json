@@ -434,7 +434,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "A new OTP code has been send to you on your mobile phone.",
+							"assignmentExpression": "\"A new OTP code has been send to you on your mobile phone.\"",
 							"assignedVariableName": "otpUiFeedback.infoMessage"
 						}
 					]
@@ -456,7 +456,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
@@ -521,7 +522,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		},
 		{
 			"data": {
