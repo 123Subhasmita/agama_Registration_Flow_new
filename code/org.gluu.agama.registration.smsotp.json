@@ -232,7 +232,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -293,7 +294,8 @@
 			"measured": {
 				"width": 110,
 				"height": 60
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -359,7 +361,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -416,13 +419,15 @@
 			"type": "logNode",
 			"id": "logNode-aa37920c-552a-46b9-937c-b8e57c5a13b6",
 			"position": {
-				"x": 2550,
-				"y": 450
+				"x": 2552,
+				"y": 247
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -450,14 +455,15 @@
 			"type": "assignmentNode",
 			"id": "assignmentNode-31a1425d-e7c9-4046-ab91-6531d64a5c47",
 			"position": {
-				"x": 2800,
-				"y": 450
+				"x": 2829,
+				"y": 251
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
 			},
-			"selected": false
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -481,13 +487,15 @@
 			"type": "logNode",
 			"id": "logNode-03e47b6a-1844-4a66-ab4f-eb532319e2fb",
 			"position": {
-				"x": 2550,
-				"y": 700
+				"x": 2589,
+				"y": 499
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -515,14 +523,15 @@
 			"type": "assignmentNode",
 			"id": "assignmentNode-d48270a6-ff5d-4223-a9eb-f105229eb2d0",
 			"position": {
-				"x": 2800,
-				"y": 700
+				"x": 2847,
+				"y": 438
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -560,7 +569,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false
 		},
 		{
 			"data": {
@@ -646,13 +656,15 @@
 			"type": "logNode",
 			"id": "logNode-69313ed9-25e4-4a76-a7b6-c81fd1b14ab7",
 			"position": {
-				"x": 2550,
-				"y": 700
+				"x": 2577,
+				"y": 711
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": false,
+			"dragging": false
 		},
 		{
 			"data": {
@@ -680,8 +692,8 @@
 			"type": "assignmentNode",
 			"id": "assignmentNode-cfd384df-127d-4f17-9398-c2d2a25b6056",
 			"position": {
-				"x": 2827.86374795254,
-				"y": 880.4509391212141
+				"x": 2820.86374795254,
+				"y": 681.4509391212141
 			},
 			"measured": {
 				"width": 170,
@@ -712,13 +724,15 @@
 			"type": "finishNode",
 			"id": "finishNode-55cc1603-2c58-4dd4-b47e-fb86b6e3a381",
 			"position": {
-				"x": 2550,
-				"y": 950
+				"x": 2624,
+				"y": 918.4000549316406
 			},
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true,
+			"dragging": false
 		}
 	],
 	"edges": [
@@ -1123,8 +1137,8 @@
 		}
 	],
 	"viewport": {
-		"x": -1296.623038923722,
-		"y": -154.06844449546327,
-		"zoom": 0.7536674547791902
+		"x": -1624,
+		"y": -296.4000549316406,
+		"zoom": 1
 	}
 }
