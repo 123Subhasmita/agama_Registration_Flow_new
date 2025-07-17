@@ -33,7 +33,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		},
 		{
 			"data": {
@@ -170,7 +170,7 @@
 					"assignments": [
 						{
 							"variableTypeCheck": true,
-							"assignmentExpression": "Invalid phone number",
+							"assignmentExpression": "\"Invalid phone number\"",
 							"assignedVariableName": "phoneUiFeedback.errorMessage"
 						}
 					]
@@ -192,7 +192,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		},
 		{
 			"data": {
