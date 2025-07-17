@@ -16,7 +16,8 @@
     "noDirectLaunch": [],
     "configs": {
         "org.gluu.agama.registration.main": {},
-        "": {}
+        "": {},
+        "org.gluu.agama.registration.sms.otp": {}
     },
     "name": "agama-registration"
 }
