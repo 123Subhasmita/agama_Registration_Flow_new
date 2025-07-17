@@ -193,7 +193,7 @@
 				"width": 170,
 				"height": 124
 			},
-			"selected": true
+			"selected": false
 		},
 		{
 			"data": {
@@ -321,7 +321,8 @@
 			"measured": {
 				"width": 170,
 				"height": 124
-			}
+			},
+			"selected": true
 		}
 	],
 	"edges": [
@@ -498,8 +499,8 @@
 		}
 	],
 	"viewport": {
-		"x": -792,
-		"y": -109,
+		"x": -975,
+		"y": -190,
 		"zoom": 1
 	}
 }
