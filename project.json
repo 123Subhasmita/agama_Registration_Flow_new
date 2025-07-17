@@ -19,7 +19,8 @@
     "configs": {
         "org.gluu.agama.registration.main": {},
         "": {},
-        "org.gluu.agama.registration.smsotp": {}
+        "org.gluu.agama.registration.smsotp": {},
+        "org.gluu.agama.registration.smsMobileRegister": {}
     },
     "name": "agama-registration"
 }
