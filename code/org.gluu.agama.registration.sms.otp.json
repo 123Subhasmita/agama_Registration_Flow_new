@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-c6c2bf82-9f0e-4fc9-832d-21b751030bc3",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-c6c2bf82-9f0e-4fc9-832d-21b751030bc3",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "org.gluu.agama.registration.sms.otp",
+          "displayName": "org.gluu.agama.registration.sms.otp",
+          "creationDate": "17/07/2025",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
